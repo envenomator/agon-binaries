@@ -29,4 +29,4 @@ After installation of the Espressif ESP Flash download tool, run it and fill in 
 ![espressif settings1](/flash-settings.png)
 ![espressif settings2](/flash-tool.png)
 
-Then press 'Start', wait for the tool to finish and follow the on-screen instructions on your VGA monitor connected to the AgonLight board.
+Then press 'Start' and wait for the tool to finish.
