@@ -30,4 +30,4 @@ After installation of the Espressif ESP Flash download tool, run it and fill in 
 ![espressif settings1](/flash-settings.png)
 ![espressif settings2](/flash-tool.png)
 
-Then press 'Start' and wait for the tool to finish.
+Then press 'Start' and wait for the tool to finish. It might be necessary to press the 'reset' button after the tool is done.
