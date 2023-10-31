@@ -9,7 +9,7 @@ For use with the [agon-flash](https://github.com/envenomator/agon-flash) utility
 | 1.02        | [MOS102.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.02/MOS102.bin)    | 0xFE59E98D |
 | 1.03        | [MOS103.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.03/MOS103.bin)    | 0x81E397C9 |
 | 1.04RC2        | [MOS104RC2.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.04RC2/MOS104RC2.bin)    | 0x3274B72F |
-| 2.00alpha2     | [MOS.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/2.00alpha2/MOS.bin)    | 0x732371FC |
+| 2.0.0       | [MOS.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/2.0.0/MOS.bin)    | 0x732371FC |
 
 When using the [agon-vdpflash](https://github.com/envenomator/agon-vdpflash) utility (for last-ditch baremetal recovery of your Agon), please rename the downloaded MOS binary file to MOS.bin
 
