@@ -28,9 +28,11 @@ Connect your AgonLight board to your PC, using an appropriate USB interface cabl
 After installation of the Espressif ESP Flash download tool, run it and fill in the fields as follows:
 
 Select the **ESP32** platform for *Chiptype*:
+
 ![espressif settings1](/flash-settings1.png)
 
 Leave **WorkMode** at *Develop*:
+
 ![espressif settings2](/flash-settings2.png)
 
 Next, on the main screen, take care to specify these exact addresses for:
@@ -42,6 +44,7 @@ Next, on the main screen, take care to specify these exact addresses for:
 |  firmware.bin  | 0x10000 |
 
 And **make sure** to **SELECT** the checkboxes on the left, to select all files to flash.
+
 ![espressif settings2](/flash-tool.png)
 
 - SPI speed is 80Mhz
