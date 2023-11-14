@@ -12,8 +12,6 @@ For use with the [agon-flash](https://github.com/envenomator/agon-flash) utility
 | [Console8 2.0.0](https://github.com/AgonConsole8/agon-mos/releases/download/v2.0.0/MOS.bin)    | 0xF57D0202 |
 | [Console8 2.1.0](https://github.com/AgonConsole8/agon-mos/releases/download/v2.1.0/MOS.bin)    | 0x3ADBB188 |
 
-When using the [agon-vdpflash](https://github.com/envenomator/agon-vdpflash) utility (for last-ditch baremetal recovery of your Agon), please rename the downloaded MOS binary file to MOS.bin
-
 ## Flashing VDP
 ### Using a commandline script
 Each VDP version directory has both a Windows Batchfile and Unix shell script to flash the ESP32 using Espressif's esptool. The redistributable esptool.exe is provided for Windows. The Unix version requires the installation of esptool.py with 'pip install esptool'
