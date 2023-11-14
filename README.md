@@ -6,7 +6,7 @@ For use with the [agon-flash](https://github.com/envenomator/agon-flash) utility
 
 | MOS version | CRC32      |
 |-------------|------------|
-| [Quark 1.02](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.02/MOS102.bin)    | 0xFE59E98D |
+| [Quark 1.02](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.02/MOS.bin)    | 0xFE59E98D |
 | [Quark 1.03](https://github.com/breakintoprogram/agon-mos/releases/download/v1.03/MOS.bin)    | 0x81E397C9 |
 | [Quark 1.04](https://github.com/breakintoprogram/agon-mos/releases/download/v1.04/MOS.bin)    | 0x74E3BDFD |
 | [Console8 2.0.0](https://github.com/AgonConsole8/agon-mos/releases/download/v2.0.0/MOS.bin)    | 0xF57D0202 |
