@@ -4,13 +4,13 @@ This git contains precompiled binaries for the Agon platform.
 ## Valid MOS CRC32 checksums
 For use with the [agon-flash](https://github.com/envenomator/agon-flash) utility
 
-| MOS version | Filename           | CRC32      |
-|-------------|--------------------|------------|
-| 1.02        | [MOS102.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.02/MOS102.bin)    | 0xFE59E98D |
-| 1.03        | [MOS103.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.03/MOS103.bin)    | 0x81E397C9 |
-| 1.04        | [MOS104.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.04/MOS104.bin)    | 0x74E3BDFD |
-| 2.0.0       | [MOS.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/2.0.0/MOS.bin)    | 0xF57D0202 |
-| 2.1.0       | [MOS.bin](https://github.com/envenomator/agon-binaries/raw/master/MOS/2.1.0/MOS.bin)    | 0x3ADBB188 |
+| MOS version | CRC32      |
+|-------------|------------|
+| [Quark 1.02](https://github.com/envenomator/agon-binaries/raw/master/MOS/1.02/MOS102.bin)    | 0xFE59E98D |
+| [Quark 1.03](https://github.com/breakintoprogram/agon-mos/releases/download/v1.03/MOS.bin)    | 0x81E397C9 |
+| [Quark 1.04](https://github.com/breakintoprogram/agon-mos/releases/download/v1.04/MOS.bin)    | 0x74E3BDFD |
+| [Console8 2.0.0](https://github.com/AgonConsole8/agon-mos/releases/download/v2.0.0/MOS.bin)    | 0xF57D0202 |
+| [Console8 2.1.0](https://github.com/AgonConsole8/agon-mos/releases/download/v2.1.0/MOS.bin)    | 0x3ADBB188 |
 
 When using the [agon-vdpflash](https://github.com/envenomator/agon-vdpflash) utility (for last-ditch baremetal recovery of your Agon), please rename the downloaded MOS binary file to MOS.bin
 
